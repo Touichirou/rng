@@ -24,6 +24,12 @@ html {
     
 }
 
+.footer {
+  display: flex;
+  justify-content: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+
 .maximum,
 .rng {
     padding: 5px;
@@ -31,7 +37,7 @@ html {
 }
 
 .result {
-    margin: 100px;
+    margin: 50px;
     font-size: 100px;
 }
 
